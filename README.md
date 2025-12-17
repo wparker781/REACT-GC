@@ -10,9 +10,6 @@ REACT can utilize correlations across the full tracked catalog of space objects 
 
 <img width="2368" height="1082" alt="image" src="https://github.com/user-attachments/assets/9729d976-934d-4cc4-bacb-e8a75aa01eee" />
 
-# Guide
-
-
 # Citation
  @article{Parker2026DataDrivenDrag,
   title   = {Data-Driven Satellite Drag Modeling Without Dynamic Knowledge of the Atmosphere},
